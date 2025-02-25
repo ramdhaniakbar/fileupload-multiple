@@ -7,7 +7,7 @@ Both utilize `PHP`, `jQuery`, `HTML`, and `CSS` to visualize invoice-related dat
 
 ## 📁 Folder Structure
 ```
-│file-upload/
+│fileupload-multiple/
 │── index.php
 │── data.php
 │── README.md
